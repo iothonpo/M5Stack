@@ -1,5 +1,6 @@
 /* Joystick Hatの動作確認用プログラム
  * ジョイスティックの位置情報を表示する
+ * https://iothonpo.com/m5stickc-joystick-hat/
  */
 #include <M5StickC.h>
 // M5StickC.h内でWire.hをincludeしてるので下記行は不要。
